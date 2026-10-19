@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-19",
+  "files": [
+    {
+      "target": "assets/zaowu-floating-perfume.png",
+      "sha256": "ee66501ae46075e111b148f8e7184608d5a79a489ae06c60d283e200e33ca899",
+      "bytes": 2486714,
+      "kind": "existing-ai-gallery-sample"
+    },
+    {
+      "target": "assets/zaowu-ice-drink.png",
+      "sha256": "8c2047015b5bb1ac8066f4f22f46aa201ac4f0926bce720b65dc342f87334891",
+      "bytes": 2415744,
+      "kind": "existing-ai-gallery-sample"
+    },
+    {
+      "target": "assets/explainer-cover.png",
+      "sha256": "ac36695dace13f8421868b9774bfa4dcb88a1917146ea457c5149ab9a0c7e8c0",
+      "bytes": 287472,
+      "kind": "existing-video-cover"
+    },
+    {
+      "target": "assets/explainer-preview-30s.mp4",
+      "sha256": "57afe9561f8c3b7215afc46cbed638b4c9751f5417ee33c70e2a2b84d1d312b9",
+      "bytes": 4583285,
+      "kind": "existing-video-preview"
+    }
+  ]
+}
